@@ -5,4 +5,4 @@
 
 ![Скриншот](https://github.com/KIvanX/3D_viewer/raw/master/screenshot1.png)
 
-![Скриншот](https://github.com/KIvanX/3D_viewer/raw/master/screenshot2.png)
+![Скриншот](https://github.com/KIvanX/3D_viewer/screenshots/raw/master/img2.png)
