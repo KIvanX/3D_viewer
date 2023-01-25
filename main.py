@@ -39,7 +39,7 @@ window = pygame.display.set_mode((w, h))
 pygame.display.set_caption('3D_viewer')
 glob_angle, glob_offset = [0, 0, 45], [300, 0, 0]
 
-objects = [object3D.Object3D('tank', window, w, h)]
+objects = [object3D.Object3D('Anime', window, w, h)]
 
 show, edit_angle, edit_offset = True, False, False
 while show:
